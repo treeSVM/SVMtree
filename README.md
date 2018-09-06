@@ -70,3 +70,12 @@ This method reload your model specified with 'modelName' from the origin ‘path
 ```
 reloadModel(‘path/modelName’) 
 ```
+
+## Authors
+Cassanelli Matías - MatiCassanelli
+
+Toledo Felipe - felipetoledo4815
+
+Amiune Hernan
+
+Fernandez Elmer
