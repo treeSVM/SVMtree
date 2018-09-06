@@ -1,4 +1,4 @@
-# SVM tree
+# Tree-based SVM Classification
 We implement a tree of SVMs (Software Vector Machine) class with Python. We also use some libraries: Numpy, Sklearn, NetworkX and Matplotlib.
 
 ## How to use it? 
